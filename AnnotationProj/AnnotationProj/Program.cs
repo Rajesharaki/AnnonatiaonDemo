@@ -13,5 +13,9 @@ namespace AnnotationProj
         {
             Console.WriteLine("Hello World!");
         }
+        public void UC2()
+        {
+            Console.WriteLine("Hello World!");
+        }
     }
 }
